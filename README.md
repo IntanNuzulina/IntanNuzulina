@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Intan Nuzulina
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Front-End Web Development Learning Path
-- 💞️ I’m looking to collaborate on Capstone Project
+- 💞️ I’m looking to collaborate on DosenPlus Project
 
 
 <!---
